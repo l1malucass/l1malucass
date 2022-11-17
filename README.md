@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🛠️ I'm currently working on a Data Pre-Processing Python project
+- ⭐ I'm currently learning from www.masterschool.com
+- 📫 How to reach me: lucasolimpiolima@hotmail.com
+- ⚡ Fun fact: I enjoy coding on the weekends... (rarely)
+
 <!--
 **l1malucass/l1malucass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
