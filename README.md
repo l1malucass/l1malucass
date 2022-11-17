@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! 🕶️
 
 - 🛠️ I'm currently working on a Data Pre-Processing Python project
 - ⭐ I'm currently learning from www.masterschool.com
