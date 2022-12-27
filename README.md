@@ -1,5 +1,6 @@
 ### Hey! 🕶️
 - ❗ I'm focused on Data Analytics & Programming
+- 💻 I'm currently working on a Exploratory Analysis with Python project
 - 🌱 I’m currently expanding my analytical & programming tool kit
 - 📫 How to reach me: www.linkedin.com/in/lucasolimpiolima
 - ⚡ Fun fact: I enjoy coding on the weekends... (rarely)
